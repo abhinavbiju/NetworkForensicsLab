@@ -1,4 +1,4 @@
-<h1>Network Forensics Lab🕵🏻‍♂️</h1>
+<h1>Network Forensics Lab</h1>
 
   <p>
     You’ve been hired to the Security Operations Center of the company <b>XYZ, LLC.</b> to help track down the employee behind some nefarious activity.  
